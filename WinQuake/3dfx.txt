@@ -6,12 +6,14 @@ Copyright ( 2015 3Dfx Interactive, Inc. )
 All Rights Reserved
 
 3Dfx Interactive, Inc.
-www: www.3dfx.com
-news: news.3dfx.com  
+www: www.google.es
 
 -----------------------------------------------------------------------
 NOTE: GLQuake requires DirectX support DirectSound.  DirectX can be 
 installed from the media provided with your Voodoo Based 3D Accelerator.
+
+
+--> inline comment <---
 
 Glide 2.31 or HIGHER runtime drivers *MUST* be installed to use this
 GLQuake driver.  Please download these drivers from your board
