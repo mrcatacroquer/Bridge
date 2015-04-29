@@ -25,6 +25,7 @@ server
   telefrag, they both die (happens in deathmatch 4).  Thanks to Nolan 'Radix'
   Pflug <nolan@fyi.net> for diffs of the progs changes to get this worked out.
 - fixed the mipmapping color errors in the GL version
+- task004 changes
 
 client
 
