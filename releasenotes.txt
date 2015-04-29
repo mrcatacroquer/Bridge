@@ -1,4 +1,4 @@
-
+------------> I'm the DeveloperA working in my branch.
 2.1
 release build
 
@@ -11,7 +11,7 @@ client
 server
 - another security hole
 
-2.01
+2.99
 server
 - added SpectatorConnect, SpectatorThink and SpectatorDisconnect Quake-C
   functions.  They are empty shells for now (a example of moving spectators
