@@ -1,8 +1,9 @@
+++++++++++++++ DeveloperB working.
 ------------> I'm the DeveloperA working in my branch.
 2.1
 release build
 
-2.02
+2.88
 client
 - fixed prediction bug in spectator/camera view, camera will no longer
   try to view under plats and stuff
@@ -27,7 +28,7 @@ server
 client
 
 
-1.82
+1.66
 
 client
 - put support back in for -zone option
