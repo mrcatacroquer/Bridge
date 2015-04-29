@@ -29,10 +29,6 @@ client
 
 1.82
 
-server
-- default floodprot, 4 lines in 8 secs, wait for 10 on activation
-- sv_friction defaults to 6 now (server op can change it to 4 if they want)
-
 client
 - put support back in for -zone option
 - added rerecord <filename> to cause a reconnect with demo recording on the
@@ -151,6 +147,7 @@ client
 - add other player clip hulls to player prediction and local prediction
   this removes the problem of walking through other players and makes
   close combat a lot nicer.
+- New bugfixes
 1.64
 
 server
