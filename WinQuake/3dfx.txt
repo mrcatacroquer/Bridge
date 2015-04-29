@@ -2,7 +2,7 @@ GLQuake Drivers
 
 Graphics Subsystem: Voodoo Graphics or Voodoo Rush
 
-Copyright ( 1997 3Dfx Interactive, Inc. )
+Copyright ( 2015 3Dfx Interactive, Inc. )
 All Rights Reserved
 
 3Dfx Interactive, Inc.
